@@ -7,7 +7,8 @@ The goal is to explore movies and TV shows on Netflix and uncover meaningful ins
 - 📺 Distribution of Movies vs TV Shows  
 - 📈 Trends in content releases over the years  
 - 🌍 Country-wise contribution to Netflix’s library  
-- ⭐ Analysis of ratings, genres, and durations  
+- ⭐ Analysis of ratings, genres, and durations
+- Added the Power Bi dashboard
 
 ## 🛠️ Tools & Libraries  
 - **Python**  
@@ -18,7 +19,8 @@ The goal is to explore movies and TV shows on Netflix and uncover meaningful ins
 ## 🚀 Skills Practiced  
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Data Visualization  
+- Data Visualization
+- Power BI
 
 ## 📂 Dataset  
 The dataset was sourced from Kaggle: [Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows)  
